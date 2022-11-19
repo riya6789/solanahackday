@@ -1,0 +1,709 @@
+.rectangleDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.deblisDiv {
+  position: absolute;
+  top: 0;
+  left: 30.74%;
+  font-weight: 500;
+  display: inline-block;
+}
+.vectorIcon {
+  position: absolute;
+  height: 73.05%;
+  width: 21.94%;
+  top: 12.93%;
+  right: 78.06%;
+  bottom: 14.02%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupA {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  height: 88%;
+  width: 89.74%;
+  top: 7.89%;
+  right: 4.63%;
+  bottom: 4.11%;
+  left: 5.63%;
+  color: inherit;
+}
+.logoDiv {
+  position: absolute;
+  top: 27.5px;
+  left: 62.5px;
+  width: 75.63px;
+  height: 25px;
+  font-size: var(--font-size-3xl);
+}
+.image2Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.connectWalletDiv {
+  position: absolute;
+  top: 1.88px;
+  left: 28.75px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.groupDiv {
+  position: relative;
+  width: 113.75px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.frameDiv {
+  border-radius: var(--br-xs);
+  background: linear-gradient(180deg, #534cb2, #551ef7);
+  width: 166.88px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameButton,
+.searchInput {
+  background-color: transparent;
+  position: absolute;
+  top: 22.5px;
+  display: flex;
+  justify-content: flex-start;
+}
+.frameButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  left: 970px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.searchInput {
+  border: 1.3px solid var(--color-white);
+  right: 335px;
+  border-radius: var(--br-sm);
+  box-sizing: border-box;
+  width: 257.5px;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-xs);
+  align-items: center;
+}
+.vectorIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1882.5px;
+  height: 948.13px;
+  opacity: 0.7;
+}
+.ourStoryDiv,
+.wereHereForACause {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.ourStoryDiv {
+  font-size: var(--font-size-base);
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  text-align: left;
+}
+.materialSymbolschevronRightIcon {
+  position: absolute;
+  top: 0.31px;
+  left: 55.63px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+.groupA1 {
+  cursor: pointer;
+  text-decoration: none;
+  position: relative;
+  width: 70.63px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.ourStoryButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs) var(--padding-4xl);
+  background-color: var(--color-white);
+  top: 49.38px;
+  left: 58.13px;
+  border-radius: var(--br-sm);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.causeDiv,
+.groupDiv1,
+.ourStoryButton {
+  position: absolute;
+}
+.groupDiv1 {
+  top: 91.88px;
+  left: 398.75px;
+  width: 278px;
+  height: 80.38px;
+}
+.causeDiv {
+  top: 476.88px;
+  left: 62.5px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-black);
+  width: 1074.38px;
+  height: 263.13px;
+  overflow: hidden;
+  font-size: var(--font-size-10xl);
+}
+.shoppingBasketRegularIcon {
+  position: absolute;
+  height: 81.25%;
+  width: 81.25%;
+  top: 9.37%;
+  right: 9.37%;
+  bottom: 9.37%;
+  left: 9.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.regularShoppingBasket {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 1.2%;
+  width: 1.88%;
+  top: 1.54%;
+  right: 20.83%;
+  bottom: 97.26%;
+  left: 77.29%;
+}
+.bellRegularIcon,
+.regularBell,
+.regularShoppingBasket {
+  position: absolute;
+  overflow: hidden;
+}
+.bellRegularIcon {
+  height: 81.25%;
+  width: 72.92%;
+  top: 9.37%;
+  right: 13.54%;
+  bottom: 9.37%;
+  left: 13.54%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.regularBell {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 1.2%;
+  width: 1.88%;
+  top: 1.54%;
+  right: 24.38%;
+  bottom: 97.26%;
+  left: 73.75%;
+}
+.suggestedForYou {
+  top: 826.88px;
+  left: 62.5px;
+  font-weight: 500;
+}
+.bestSellersDiv,
+.suggestedForYou,
+.viewMoreDiv,
+.viewMoreDiv1 {
+  position: absolute;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+}
+.bestSellersDiv {
+  top: 1144.38px;
+  left: 62.5px;
+  font-weight: 500;
+}
+.viewMoreDiv,
+.viewMoreDiv1 {
+  top: 826.88px;
+  left: 1055px;
+  text-decoration: underline;
+}
+.viewMoreDiv1 {
+  top: 1144.38px;
+}
+.rectangleDiv1,
+.rectangleDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-500);
+  width: 166.88px;
+  height: 223.13px;
+}
+.rectangleDiv2 {
+  border-radius: var(--br-sm) var(--br-sm) 0 0;
+  background-color: var(--color-white);
+  height: 158.75px;
+}
+.image4Icon {
+  position: absolute;
+  top: 3.75px;
+  left: 8.13px;
+  width: 151.25px;
+  height: 151.25px;
+  object-fit: cover;
+}
+.blindStickDiv,
+.div {
+  position: absolute;
+  top: 166.25px;
+  left: 10px;
+  font-weight: 500;
+  display: inline-block;
+}
+.div {
+  top: 186.88px;
+  left: 31.88px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.image5Icon {
+  position: absolute;
+  top: 188.75px;
+  left: 11.25px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.groupA2 {
+  position: absolute;
+  width: 166.88px;
+  height: 223.13px;
+}
+.groupDiv2 {
+  top: 1195.63px;
+  left: 62.5px;
+}
+.groupDiv2,
+.groupDiv3 {
+  position: absolute;
+  width: 166.88px;
+  height: 223.13px;
+}
+.groupA2,
+.groupDiv3 {
+  top: 878.13px;
+}
+.groupDiv3 {
+  left: 244.38px;
+}
+.groupA2 {
+  text-decoration: none;
+  left: 62.5px;
+  cursor: pointer;
+  color: inherit;
+}
+.groupDiv4 {
+  top: 1195.63px;
+  left: 244.38px;
+}
+.groupDiv4,
+.groupDiv5,
+.groupDiv6,
+.groupDiv7,
+.groupDiv8 {
+  position: absolute;
+  width: 166.88px;
+  height: 223.13px;
+}
+.groupDiv5,
+.groupDiv6 {
+  top: 878.13px;
+  left: 426.25px;
+}
+.groupDiv6 {
+  top: 1195.63px;
+}
+.groupDiv7,
+.groupDiv8 {
+  top: 878.13px;
+  left: 608.13px;
+}
+.groupDiv8 {
+  top: 1195.63px;
+}
+.frameDiv1 {
+  position: absolute;
+}
+.groupDiv10 {
+  left: 790px;
+}
+.groupDiv10,
+.groupDiv11,
+.groupDiv12,
+.groupDiv9 {
+  position: absolute;
+  width: 166.88px;
+  height: 223.13px;
+}
+.groupDiv9 {
+  top: 878.13px;
+  left: 790px;
+}
+.groupDiv10 {
+  top: 1195.63px;
+}
+.groupDiv11,
+.groupDiv12 {
+  top: 878.13px;
+  left: 971.88px;
+}
+.groupDiv12 {
+  top: 1195.63px;
+}
+.frameDiv1 {
+  top: 1474.38px;
+  left: 62.5px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-black);
+  width: 705px;
+  height: 258.13px;
+  overflow: hidden;
+}
+.rectangleDiv25 {
+  position: absolute;
+  top: 1788.13px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1200px;
+  height: 84.38px;
+}
+.madeWithByTeamKasukabeD,
+.subscribeToOurNewsletter {
+  position: absolute;
+  top: 1844.38px;
+  left: 466.88px;
+  font-weight: 500;
+  display: inline-block;
+}
+.subscribeToOurNewsletter {
+  top: 1529.38px;
+  left: 842.5px;
+  font-size: var(--font-size-4xl);
+}
+.groupDiv13 {
+  position: absolute;
+  height: 88%;
+  width: 89.74%;
+  top: 7.88%;
+  right: 4.63%;
+  bottom: 4.12%;
+  left: 5.63%;
+}
+.logoDiv1 {
+  position: absolute;
+  top: 1897.41px;
+  left: 591.09px;
+  width: 75.63px;
+  height: 25px;
+  font-size: var(--font-size-3xl);
+}
+.groupInput {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 258.75px;
+  height: 35px;
+}
+.subscribeDiv {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.subscribeButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-4xs) var(--padding-2xl);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 44.38px;
+  left: 0;
+  border-radius: var(--br-sm);
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.groupDiv14 {
+  position: absolute;
+  top: 1599.38px;
+  left: 842.5px;
+  width: 258.75px;
+  height: 79.13px;
+}
+.subscribeToOurNewsletterAn {
+  position: absolute;
+  top: 1553.75px;
+  left: 843.13px;
+  display: inline-block;
+  width: 256.88px;
+}
+.rectangleDiv27,
+.rectangleDiv28,
+.rectangleDiv29 {
+  position: absolute;
+  top: 1.25px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-400);
+  width: 1075px;
+  height: 332.5px;
+}
+.rectangleDiv28,
+.rectangleDiv29 {
+  top: 0.63px;
+  left: 363.13px;
+  background-color: var(--color-white);
+  width: 348.75px;
+  height: 333.13px;
+}
+.rectangleDiv29 {
+  left: 725.63px;
+}
+.shopFrom100ProductsForSp {
+  position: absolute;
+  top: 70.63px;
+  left: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 333.13px;
+}
+.image3Icon {
+  position: absolute;
+  top: 28.75px;
+  left: 439.38px;
+  width: 196.25px;
+  height: 196.25px;
+  object-fit: cover;
+}
+.frameDiv2 {
+  position: absolute;
+  top: 1.88px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-4xs) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.mainDiv,
+.shopNow {
+  position: absolute;
+  overflow: hidden;
+}
+.shopNow {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 155px;
+  left: 90.63px;
+  width: 166.88px;
+  height: 36.25px;
+}
+.mainDiv {
+  top: 99.38px;
+  left: 62.5px;
+  width: 1076.25px;
+  height: 333.75px;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+}
+.cart3,
+.emptyDiv {
+  position: absolute;
+  top: 82.5px;
+  color: var(--color-black);
+  display: inline-block;
+}
+.cart3 {
+  left: 813.13px;
+  font-size: var(--font-size-4xl);
+  font-weight: 500;
+}
+.emptyDiv {
+  left: 1079.38px;
+  font-size: 11.25px;
+  text-decoration: underline;
+  font-weight: 300;
+}
+.lineDiv {
+  position: absolute;
+  top: 117.19px;
+  left: 787.81px;
+  border-top: 0.6px solid rgba(0, 0, 0, 0.4);
+  box-sizing: border-box;
+  width: 349.38px;
+  height: 0.63px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 127.5px;
+  left: 803.75px;
+  border-radius: 5.44px;
+  width: 61.25px;
+  height: 61.25px;
+  object-fit: cover;
+}
+.div12,
+.magnaBlindStick {
+  position: absolute;
+  left: 880.63px;
+  color: var(--color-black);
+  display: inline-block;
+}
+.magnaBlindStick {
+  top: 127.5px;
+}
+.div12 {
+  top: 146.25px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.image2Icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 12.21px;
+  height: 12.21px;
+  object-fit: cover;
+}
+.checkoutDiv {
+  position: absolute;
+  top: 1.14px;
+  left: 17.55px;
+  font-size: 7.63px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.groupDiv15 {
+  position: relative;
+  width: 50.55px;
+  height: 12.21px;
+  flex-shrink: 0;
+}
+.frameButton1,
+.frameDiv3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv3 {
+  border-radius: 1.53px;
+  background: linear-gradient(180deg, #534cb2, #551ef7);
+  width: 70px;
+  padding: var(--padding-5xs) var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frameButton1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 144.38px;
+  left: 1051.88px;
+}
+.homeDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 1872.5px;
+  overflow: hidden;
+}
+.sOLSpan {
+  font-size: 11.87px;
+}
+.sOLDiv {
+  position: absolute;
+  top: 0;
+  left: 23.94%;
+  font-weight: 800;
+  display: inline-block;
+}
+.image5Icon12 {
+  position: absolute;
+  top: 3.71px;
+  left: 0;
+  width: 14.34px;
+  height: 14.34px;
+  object-fit: cover;
+}
+.groupDiv16 {
+  position: absolute;
+  height: 1.28%;
+  width: 6.03%;
+  top: 8.88%;
+  right: 20.59%;
+  bottom: 89.84%;
+  left: 73.39%;
+  font-size: 17.81px;
+  color: var(--color-black);
+  font-family: var(--font-avenir);
+}
+.slide1694 {
+  position: relative;
+  background: linear-gradient(107.56deg, #2d3641, #434f5b);
+  width: 100%;
+  height: 1872.5px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
